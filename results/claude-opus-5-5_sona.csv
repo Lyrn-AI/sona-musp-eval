@@ -1,0 +1,239 @@
+id,piece,subset,answered_by,extracted,correct
+musp_179,1,general,claude-opus-5-5,"D4, G5, C5",True
+musp_180,1,general,claude-opus-5-5,"2, 1, 3, 2, 3",False
+musp_181,1,general,claude-opus-5-5,"A4, D3, D4",False
+musp_182,1,composer/title,claude-opus-5-5,Johann Sebastian Bach,True
+musp_183,1,composer/title,claude-opus-5-5,"Sinfonia No. 4 in D minor, BWV 790",False
+musp_184,1,tonality/style,claude-opus-5-5,D minor,True
+musp_185,1,tonality/style,claude-opus-5-5,Baroque,True
+musp_73,1,P,claude-opus-5-5,"D, Eb, D, C, Eb, D, C, B, G, A, G, F, A, G, F, E",True
+musp_74,1,P,claude-opus-5-5,"2, 3, 1",False
+musp_75,1,P,claude-opus-5-5,G,False
+musp_76,1,P,claude-opus-5-5,perfect fourth,True
+musp_77,1,P,claude-opus-5-5,"0:00, 0:22, 0:43, 1:45",False
+musp_186,2,composer/title,claude-opus-5-5,Johann Sebastian Bach,True
+musp_187,2,composer/title,claude-opus-5-5,"Prelude in C-sharp major, BWV 848",True
+musp_188,2,tonality/style,claude-opus-5-5,Db major,False
+musp_189,2,tonality/style,claude-opus-5-5,Baroque,True
+musp_78,2,P,claude-opus-5-5,Gb4,False
+musp_79,2,P,claude-opus-5-5,00:26,False
+musp_80,2,P,claude-opus-5-5,90-100,True
+musp_81,2,P,claude-opus-5-5,0:55,True
+musp_190,3,general,claude-opus-5-5,3:4,False
+musp_191,3,general,claude-opus-5-5,8,False
+musp_192,3,composer/title,claude-opus-5-5,Mily Balakirev,True
+musp_193,3,composer/title,claude-opus-5-5,"Islamey, Oriental Fantasy",False
+musp_194,3,tonality/style,claude-opus-5-5,D-flat major,True
+musp_195,3,tonality/style,claude-opus-5-5,Romantic,True
+musp_82,3,P,claude-opus-5-5,04:09,False
+musp_83,3,P,claude-opus-5-5,00:32,True
+musp_84,3,P,claude-opus-5-5,06:56,True
+musp_196,4,general,claude-opus-5-5,"D5, E5",True
+musp_197,4,general,claude-opus-5-5,anger,True
+musp_198,4,general,claude-opus-5-5,Db major,True
+musp_199,4,general,claude-opus-5-5,C2,True
+musp_200,4,general,claude-opus-5-5,"2, 1",False
+musp_201,4,composer/title,claude-opus-5-5,Ludwig van Beethoven,True
+musp_202,4,composer/title,claude-opus-5-5,"Piano Sonata No. 23 in F minor, Op. 57 ""Appassionata""",True
+musp_203,4,tonality/style,claude-opus-5-5,F minor,True
+musp_204,4,tonality/style,claude-opus-5-5,Romantic,True
+musp_85,4,P,claude-opus-5-5,"C, Db, C",True
+musp_86,4,P,claude-opus-5-5,00:36,True
+musp_87,4,P,claude-opus-5-5,09:11,True
+musp_88,4,P,claude-opus-5-5,04:58,True
+musp_89,4,P,claude-opus-5-5,00:35,True
+musp_90,4,P,claude-opus-5-5,4:47,True
+musp_91,4,P,claude-opus-5-5,"1:58, 6:55",True
+musp_205,5,general,claude-opus-5-5,F6,True
+musp_206,5,composer/title,claude-opus-5-5,Ludwig van Beethoven,True
+musp_207,5,composer/title,claude-opus-5-5,"Piano Sonata No. 21 in C major, Op. 53 ""Waldstein"" (I. Allegro con brio)",False
+musp_208,5,tonality/style,claude-opus-5-5,C major,True
+musp_209,5,tonality/style,claude-opus-5-5,Late Classical / Early Romantic,True
+musp_92,5,P,claude-opus-5-5,deceptive cadence,True
+musp_93,5,P,claude-opus-5-5,"F, F, F",True
+musp_114,6,P,claude-opus-5-5,"F, Eb, Eb, D, F, Eb, Eb, D, D, C, Bb, A, G, F#",True
+musp_115,6,P,claude-opus-5-5,08:42,True
+musp_116,6,P,claude-opus-5-5,6:31,True
+musp_117,6,P,claude-opus-5-5,"Db4, Cb4, Bb3",True
+musp_118,6,P,claude-opus-5-5,5:59,True
+musp_119,6,P,claude-opus-5-5,08:01,True
+musp_237,6,general,claude-opus-5-5,G melodic minor,True
+musp_238,6,general,claude-opus-5-5,12,False
+musp_239,6,general,claude-opus-5-5,Waltz,True
+musp_240,6,composer/title,claude-opus-5-5,Frédéric Chopin,True
+musp_241,6,composer/title,claude-opus-5-5,"Ballade No. 1 in G minor, Op. 23",True
+musp_242,6,tonality/style,claude-opus-5-5,G minor,True
+musp_243,6,tonality/style,claude-opus-5-5,Romantic,True
+musp_120,7,P,claude-opus-5-5,4,True
+musp_121,7,P,claude-opus-5-5,"G#, A, G#, C#, E, G#, C#, A, B#, C#",True
+musp_122,7,P,claude-opus-5-5,"0:41, 0:43",True
+musp_123,7,P,claude-opus-5-5,190,False
+musp_124,7,P,claude-opus-5-5,"00:01, 00:12, 01:07, 01:18",True
+musp_244,7,general,claude-opus-5-5,4,True
+musp_245,7,composer/title,claude-opus-5-5,Frédéric Chopin,True
+musp_246,7,composer/title,claude-opus-5-5,"Étude in C-sharp minor, Op. 10 No. 4",True
+musp_247,7,tonality/style,claude-opus-5-5,C-sharp minor,True
+musp_248,7,tonality/style,claude-opus-5-5,Romantic,True
+musp_125,8,P,claude-opus-5-5,"F5, E5, Eb5, D5",False
+musp_126,8,P,claude-opus-5-5,"Ab, F, Eb, Ab, F, Eb",True
+musp_127,8,P,claude-opus-5-5,"2, 3, 1",True
+musp_128,8,P,claude-opus-5-5,Ab2,True
+musp_129,8,P,claude-opus-5-5,01:41,False
+musp_249,8,general,claude-opus-5-5,"major second, perfect fourth",False
+musp_250,8,general,claude-opus-5-5,Bb7,True
+musp_251,8,composer/title,claude-opus-5-5,Franz Liszt,False
+musp_252,8,composer/title,claude-opus-5-5,Harmonies du soir,False
+musp_253,8,tonality/style,claude-opus-5-5,Db major,True
+musp_254,8,tonality/style,claude-opus-5-5,Impressionistic,True
+musp_130,9,P,claude-opus-5-5,E,True
+musp_131,9,P,claude-opus-5-5,01:05,True
+musp_132,9,P,claude-opus-5-5,01:01,False
+musp_133,9,P,claude-opus-5-5,04:57,True
+musp_255,9,general,claude-opus-5-5,9,True
+musp_256,9,general,claude-opus-5-5,B,True
+musp_257,9,general,claude-opus-5-5,"F7, Gb7, F7",True
+musp_258,9,composer/title,claude-opus-5-5,Frédéric Chopin,False
+musp_259,9,composer/title,claude-opus-5-5,"Nocturne in B-flat minor, Op. 9 No. 1",False
+musp_260,9,tonality/style,claude-opus-5-5,B-flat minor,True
+musp_261,9,tonality/style,claude-opus-5-5,Romantic,True
+musp_134,10,P,claude-opus-5-5,F6,False
+musp_135,10,P,claude-opus-5-5,3:40,True
+musp_136,10,P,claude-opus-5-5,2:00,True
+musp_262,10,general,claude-opus-5-5,4,True
+musp_263,10,general,claude-opus-5-5,"eighth note G, eighth note G",True
+musp_264,10,general,claude-opus-5-5,"G major, C minor",True
+musp_265,10,composer/title,claude-opus-5-5,Joseph Haydn,True
+musp_266,10,composer/title,claude-opus-5-5,Scott Joplin's New Rag,False
+musp_267,10,tonality/style,claude-opus-5-5,C major,True
+musp_268,10,tonality/style,claude-opus-5-5,Classical,True
+musp_137,11,P,claude-opus-5-5,00:51,True
+musp_138,11,P,claude-opus-5-5,11:39,False
+musp_139,11,P,claude-opus-5-5,-1,True
+musp_140,11,P,claude-opus-5-5,03:07,True
+musp_141,11,P,claude-opus-5-5,6:14,True
+musp_269,11,general,claude-opus-5-5,"D, D#",False
+musp_270,11,general,claude-opus-5-5,3,False
+musp_271,11,general,claude-opus-5-5,"F#, G, A, B, F#, A, G, G, F#, C#, D, E, F#, C#, D, E, F#, G, A, B",True
+musp_272,11,composer/title,claude-opus-5-5,Franz Liszt,True
+musp_273,11,composer/title,claude-opus-5-5,"Ballade No. 2 in B minor, S.171 (Liszt)",False
+musp_274,11,tonality/style,claude-opus-5-5,B minor,True
+musp_275,11,tonality/style,claude-opus-5-5,Romantic,True
+musp_142,12,P,claude-opus-5-5,"tonic, secondary dominant, subdominant, dominant",True
+musp_143,12,P,claude-opus-5-5,5,True
+musp_144,12,P,claude-opus-5-5,"C#, B, A",True
+musp_145,12,P,claude-opus-5-5,00:14,True
+musp_146,12,P,claude-opus-5-5,00:27,True
+musp_276,12,general,claude-opus-5-5,"F, A, C, A, Bb, G, F, E, F, A, D, G, C, A, F",False
+musp_277,12,composer/title,claude-opus-5-5,Wolfgang Amadeus Mozart,True
+musp_278,12,composer/title,claude-opus-5-5,"Piano Sonata No. 12 in F major, K. 332, I. Allegro (Mozart)",False
+musp_279,12,tonality/style,claude-opus-5-5,F major,True
+musp_280,12,tonality/style,claude-opus-5-5,Classical,True
+musp_147,13,P,claude-opus-5-5,02:05,True
+musp_148,13,P,claude-opus-5-5,00:03,False
+musp_149,13,P,claude-opus-5-5,01:46,True
+musp_281,13,composer/title,claude-opus-5-5,Wolfgang Amadeus Mozart,True
+musp_282,13,composer/title,claude-opus-5-5,"Piano Sonata in F major, K. 280 (Mozart) – I. Allegro assai",False
+musp_283,13,tonality/style,claude-opus-5-5,F major,True
+musp_284,13,tonality/style,claude-opus-5-5,Classical,True
+musp_150,14,P,claude-opus-5-5,12,True
+musp_151,14,P,claude-opus-5-5,02:49,True
+musp_152,14,P,claude-opus-5-5,"F#, E, F#, B, C#, D, C#, D, E, F#, G, F#, G, D, E, F#, E, F#, G, G#, A",True
+musp_153,14,P,claude-opus-5-5,02:19,True
+musp_154,14,P,claude-opus-5-5,01:03,True
+musp_155,14,P,claude-opus-5-5,0:32,True
+musp_156,14,P,claude-opus-5-5,2:42,True
+musp_285,14,general,claude-opus-5-5,18,True
+musp_286,14,composer/title,claude-opus-5-5,Sergei Rachmaninoff,True
+musp_287,14,composer/title,claude-opus-5-5,Méditation from Thaïs,False
+musp_288,14,tonality/style,claude-opus-5-5,D major,True
+musp_289,14,tonality/style,claude-opus-5-5,Romantic,False
+musp_157,15,P,claude-opus-5-5,"Gb4, F4, Db4, C4",False
+musp_158,15,P,claude-opus-5-5,9,True
+musp_159,15,P,claude-opus-5-5,01:29,True
+musp_160,15,P,claude-opus-5-5,perfect fourth,True
+musp_161,15,P,claude-opus-5-5,1:40,True
+musp_162,15,P,claude-opus-5-5,Bb5,True
+musp_163,15,P,claude-opus-5-5,"F, Db, C, Bb, C",False
+musp_164,15,P,claude-opus-5-5,"00:03, 00:24, 00:45",True
+musp_165,15,P,claude-opus-5-5,"less, C5",False
+musp_290,15,general,claude-opus-5-5,36,True
+musp_291,15,general,claude-opus-5-5,1,True
+musp_292,15,composer/title,claude-opus-5-5,Franz Schubert,True
+musp_293,15,composer/title,claude-opus-5-5,"Mazurka in F minor, Op. 7 No. 3",False
+musp_294,15,tonality/style,claude-opus-5-5,F minor,True
+musp_295,15,tonality/style,claude-opus-5-5,Romantic,False
+musp_166,16,P,claude-opus-5-5,"F, G",True
+musp_167,16,P,claude-opus-5-5,D5,True
+musp_168,16,P,claude-opus-5-5,A minor,True
+musp_169,16,P,claude-opus-5-5,04:54,True
+musp_170,16,P,claude-opus-5-5,02:01,True
+musp_171,16,P,claude-opus-5-5,"0:00, 0:53, 2:15",True
+musp_296,16,composer/title,claude-opus-5-5,Edvard Grieg,False
+musp_297,16,composer/title,claude-opus-5-5,"Arabeske in C major, Op. 18",True
+musp_298,16,tonality/style,claude-opus-5-5,C major,True
+musp_299,16,tonality/style,claude-opus-5-5,Romantic,True
+musp_172,17,P,claude-opus-5-5,Fsus4,True
+musp_173,17,P,claude-opus-5-5,"F, Ab, Gb, F, Gb",True
+musp_174,17,P,claude-opus-5-5,01:26,True
+musp_175,17,P,claude-opus-5-5,"0:44, 3:25",False
+musp_300,17,general,claude-opus-5-5,F,True
+musp_301,17,general,claude-opus-5-5,"Cb, F",True
+musp_302,17,general,claude-opus-5-5,emotional depth,True
+musp_303,17,composer/title,claude-opus-5-5,Pyotr Ilyich Tchaikovsky,False
+musp_304,17,composer/title,claude-opus-5-5,"Prelude in B-flat minor, Op. 1 No. 1 (Szymanowski)",False
+musp_305,17,tonality/style,claude-opus-5-5,Bb minor,True
+musp_306,17,tonality/style,claude-opus-5-5,Romantic,False
+musp_176,18,P,claude-opus-5-5,D#,True
+musp_177,18,P,claude-opus-5-5,"B, Eb",False
+musp_178,18,P,claude-opus-5-5,0:00,False
+musp_307,18,composer/title,claude-opus-5-5,Maurice Ravel,False
+musp_308,18,composer/title,claude-opus-5-5,Scarbo (Gaspard de la nuit),False
+musp_309,18,tonality/style,claude-opus-5-5,G-sharp minor,False
+musp_310,18,tonality/style,claude-opus-5-5,Impressionistic,False
+musp_210,19,general,claude-opus-5-5,7,False
+musp_211,19,composer/title,claude-opus-5-5,Gioachino Rossini,False
+musp_212,19,composer/title,claude-opus-5-5,"Symphony No. 38 in D major, K. 504 ""Prague""",False
+musp_213,19,tonality/style,claude-opus-5-5,D major,True
+musp_214,19,tonality/style,claude-opus-5-5,Classical,True
+musp_94,19,P,claude-opus-5-5,"F#, E, F#, A, F#, D, G, F#, G, B, G, E, F, F#, A, G, F#, E, D#, E",False
+musp_95,19,P,claude-opus-5-5,00:13,False
+musp_96,19,P,claude-opus-5-5,00:17,True
+musp_100,20,P,claude-opus-5-5,D,False
+musp_215,20,composer/title,claude-opus-5-5,Wolfgang Amadeus Mozart,False
+musp_216,20,composer/title,claude-opus-5-5,"Symphony No. 31 in D major, K. 297 ""Paris""",False
+musp_217,20,tonality/style,claude-opus-5-5,D major,True
+musp_218,20,tonality/style,claude-opus-5-5,Classical,False
+musp_97,20,P,claude-opus-5-5,00:04,False
+musp_98,20,P,claude-opus-5-5,Violin,True
+musp_99,20,P,claude-opus-5-5,"D, B, D, C#, D, E, A, G#, A",False
+musp_101,21,P,claude-opus-5-5,00:22,False
+musp_102,21,P,claude-opus-5-5,00:18,True
+musp_219,21,composer/title,claude-opus-5-5,Richard Wagner,False
+musp_220,21,composer/title,claude-opus-5-5,Das Rheingold – Prelude,False
+musp_221,21,tonality/style,claude-opus-5-5,Eb major,True
+musp_222,21,tonality/style,claude-opus-5-5,Late Classical / Early Romantic,True
+musp_103,22,P,claude-opus-5-5,First violins,False
+musp_104,22,P,claude-opus-5-5,00:11,True
+musp_105,22,P,claude-opus-5-5,0:19,True
+musp_106,22,P,claude-opus-5-5,00:19,True
+musp_223,22,general,claude-opus-5-5,9,True
+musp_224,22,composer/title,claude-opus-5-5,Ludwig van Beethoven,True
+musp_225,22,composer/title,claude-opus-5-5,"Symphony No. 5 in C minor, Op. 67 (Beethoven)",False
+musp_226,22,tonality/style,claude-opus-5-5,C minor,True
+musp_227,22,tonality/style,claude-opus-5-5,Late Classical / Early Romantic,True
+musp_107,23,P,claude-opus-5-5,F,True
+musp_108,23,P,claude-opus-5-5,grace note,False
+musp_109,23,P,claude-opus-5-5,00:05,False
+musp_110,23,P,claude-opus-5-5,"00:11, 00:16",False
+musp_111,23,P,claude-opus-5-5,C,False
+musp_112,23,P,claude-opus-5-5,0:05,True
+musp_228,23,composer/title,claude-opus-5-5,Ludwig van Beethoven,True
+musp_229,23,composer/title,claude-opus-5-5,"Symphony No. 6 in F major, Op. 68 ""Pastoral""",False
+musp_230,23,tonality/style,claude-opus-5-5,F major,True
+musp_231,23,tonality/style,claude-opus-5-5,Classical,False
+musp_113,24,P,claude-opus-5-5,"Bb, A, F, E",False
+musp_232,24,general,claude-opus-5-5,5,False
+musp_233,24,composer/title,claude-opus-5-5,Joseph Haydn,False
+musp_234,24,composer/title,claude-opus-5-5,King Stephen Overture,False
+musp_235,24,tonality/style,claude-opus-5-5,D minor,True
+musp_236,24,tonality/style,claude-opus-5-5,Classical,False

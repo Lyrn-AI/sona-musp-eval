@@ -1,0 +1,239 @@
+id,piece,subset,answered_by,extracted,correct
+musp_179,1,general,qwen3.5-omni-plus,"[""G4"", ""F4"", ""E4""]",False
+musp_180,1,general,qwen3.5-omni-plus,"4, 2",False
+musp_181,1,general,qwen3.5-omni-plus,"[""D4"", ""A4"", ""D5""]",False
+musp_182,1,composer/title,qwen3.5-omni-plus,Johann Sebastian Bach,True
+musp_183,1,composer/title,qwen3.5-omni-plus,"Prelude in C major, BWV 846",False
+musp_184,1,tonality/style,qwen3.5-omni-plus,D minor,True
+musp_185,1,tonality/style,qwen3.5-omni-plus,Baroque,True
+musp_73,1,P,qwen3.5-omni-plus,"[""D"", ""C"", ""Bb"", ""A"", ""G"", ""F"", ""E"", ""D"", ""C"", ""Bb"", ""A"", ""G"", ""F"", ""E"", ""D"", ""E""]",False
+musp_74,1,P,qwen3.5-omni-plus,"[1, 2, 3]",False
+musp_75,1,P,qwen3.5-omni-plus,A,True
+musp_76,1,P,qwen3.5-omni-plus,minor second,False
+musp_77,1,P,qwen3.5-omni-plus,"[""0:00"", ""0:58"", ""1:46""]",False
+musp_186,2,composer/title,qwen3.5-omni-plus,Johann Sebastian Bach,True
+musp_187,2,composer/title,qwen3.5-omni-plus,"Prelude in C-sharp major, BWV 848",True
+musp_188,2,tonality/style,qwen3.5-omni-plus,C-sharp major,True
+musp_189,2,tonality/style,qwen3.5-omni-plus,Baroque,True
+musp_78,2,P,qwen3.5-omni-plus,Ab5,False
+musp_79,2,P,qwen3.5-omni-plus,0:35,False
+musp_80,2,P,qwen3.5-omni-plus,100-110,False
+musp_81,2,P,qwen3.5-omni-plus,0:58,False
+musp_190,3,general,qwen3.5-omni-plus,"[""4:3""]",False
+musp_191,3,general,qwen3.5-omni-plus,2,False
+musp_192,3,composer/title,qwen3.5-omni-plus,"[""Mily Balakirev""]",True
+musp_193,3,composer/title,qwen3.5-omni-plus,"Piano Sonata No. 2 in B-flat minor, Op. 35 ""Funeral March""",False
+musp_194,3,tonality/style,qwen3.5-omni-plus,C-sharp minor,False
+musp_195,3,tonality/style,qwen3.5-omni-plus,Romantic,True
+musp_82,3,P,qwen3.5-omni-plus,04:15,False
+musp_83,3,P,qwen3.5-omni-plus,0:58,False
+musp_84,3,P,qwen3.5-omni-plus,07:38,False
+musp_196,4,general,qwen3.5-omni-plus,"[""E5, F5""]",False
+musp_197,4,general,qwen3.5-omni-plus,triumph,False
+musp_198,4,general,qwen3.5-omni-plus,Ab major,False
+musp_199,4,general,qwen3.5-omni-plus,F2,False
+musp_200,4,general,qwen3.5-omni-plus,"[1, 2, 1, 2]",False
+musp_201,4,composer/title,qwen3.5-omni-plus,"[""Ludwig van Beethoven""]",True
+musp_202,4,composer/title,qwen3.5-omni-plus,"Piano Sonata No. 23 in F minor, Op. 57 ""Appassionata""",True
+musp_203,4,tonality/style,qwen3.5-omni-plus,F minor,True
+musp_204,4,tonality/style,qwen3.5-omni-plus,Romantic,True
+musp_85,4,P,qwen3.5-omni-plus,"[""F"", ""Eb"", ""D""]",False
+musp_86,4,P,qwen3.5-omni-plus,00:37,False
+musp_87,4,P,qwen3.5-omni-plus,09:10,False
+musp_88,4,P,qwen3.5-omni-plus,[04:54],False
+musp_89,4,P,qwen3.5-omni-plus,00:37,False
+musp_90,4,P,qwen3.5-omni-plus,0:47,False
+musp_91,4,P,qwen3.5-omni-plus,"[""01:57, 04:56""]",False
+musp_205,5,general,qwen3.5-omni-plus,C5,False
+musp_206,5,composer/title,qwen3.5-omni-plus,Ludwig van Beethoven,True
+musp_207,5,composer/title,qwen3.5-omni-plus,"Piano Sonata No. 21 in C major, Op. 53 ""Waldstein""",True
+musp_208,5,tonality/style,qwen3.5-omni-plus,C major,True
+musp_209,5,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,True
+musp_92,5,P,qwen3.5-omni-plus,Perfect authentic cadence,False
+musp_93,5,P,qwen3.5-omni-plus,"[""C""]",False
+musp_114,6,P,qwen3.5-omni-plus,"[""Bb"", ""A"", ""G"", ""F"", ""Eb"", ""D""]",False
+musp_115,6,P,qwen3.5-omni-plus,08:44,True
+musp_116,6,P,qwen3.5-omni-plus,6:33,False
+musp_117,6,P,qwen3.5-omni-plus,"[""G4"", ""Bb4"", ""F4"", ""Eb4"", ""D4""]",False
+musp_118,6,P,qwen3.5-omni-plus,6:07,False
+musp_119,6,P,qwen3.5-omni-plus,4:56,False
+musp_237,6,general,qwen3.5-omni-plus,G major,False
+musp_238,6,general,qwen3.5-omni-plus,3,False
+musp_239,6,general,qwen3.5-omni-plus,Polonaise,False
+musp_240,6,composer/title,qwen3.5-omni-plus,"[""Frédéric Chopin""]",True
+musp_241,6,composer/title,qwen3.5-omni-plus,"Ballade No. 1 in G minor, Op. 23",True
+musp_242,6,tonality/style,qwen3.5-omni-plus,G minor,True
+musp_243,6,tonality/style,qwen3.5-omni-plus,Late Romantic,False
+musp_120,7,P,qwen3.5-omni-plus,4,True
+musp_121,7,P,qwen3.5-omni-plus,"[""C#"", ""C"", ""B"", ""A#"", ""A"", ""G#"", ""G"", ""F#"", ""F"", ""E"", ""D#"", ""C#""]",False
+musp_122,7,P,qwen3.5-omni-plus,"[""0:57, 0:58""]",False
+musp_123,7,P,qwen3.5-omni-plus,160,False
+musp_124,7,P,qwen3.5-omni-plus,"[""00:00"", ""01:06""]",False
+musp_244,7,general,qwen3.5-omni-plus,1,False
+musp_245,7,composer/title,qwen3.5-omni-plus,"[""Frédéric Chopin""]",True
+musp_246,7,composer/title,qwen3.5-omni-plus,"Étude in C-Sharp Minor, Op. 10, No. 4",False
+musp_247,7,tonality/style,qwen3.5-omni-plus,C-sharp minor,True
+musp_248,7,tonality/style,qwen3.5-omni-plus,Romantic,True
+musp_125,8,P,qwen3.5-omni-plus,"[""G6"", ""F#6"", ""E6"", ""D6""]",False
+musp_126,8,P,qwen3.5-omni-plus,"[""Ab"", ""Gb"", ""F"", ""Eb"", ""Db""]",False
+musp_127,8,P,qwen3.5-omni-plus,"[""1, 2, 3""]",True
+musp_128,8,P,qwen3.5-omni-plus,Eb2,False
+musp_129,8,P,qwen3.5-omni-plus,01:42,False
+musp_249,8,general,qwen3.5-omni-plus,"[""major second, minor second""]",False
+musp_250,8,general,qwen3.5-omni-plus,C7,False
+musp_251,8,composer/title,qwen3.5-omni-plus,"[""Claude Debussy""]",True
+musp_252,8,composer/title,qwen3.5-omni-plus,Reflets dans l'eau,True
+musp_253,8,tonality/style,qwen3.5-omni-plus,"[""D-flat major""]",True
+musp_254,8,tonality/style,qwen3.5-omni-plus,Impressionistic,True
+musp_130,9,P,qwen3.5-omni-plus,Db,False
+musp_131,9,P,qwen3.5-omni-plus,1:00,False
+musp_132,9,P,qwen3.5-omni-plus,1:00,False
+musp_133,9,P,qwen3.5-omni-plus,4:58,True
+musp_255,9,general,qwen3.5-omni-plus,4,False
+musp_256,9,general,qwen3.5-omni-plus,E. The gradual breaking of sunlight,False
+musp_257,9,general,qwen3.5-omni-plus,"[""C4"", ""G3"", ""E3"", ""C3""]",False
+musp_258,9,composer/title,qwen3.5-omni-plus,Franz Liszt,False
+musp_259,9,composer/title,qwen3.5-omni-plus,"Nocturne in B-flat minor, Op. 9, No. 1",False
+musp_260,9,tonality/style,qwen3.5-omni-plus,B-flat minor,True
+musp_261,9,tonality/style,qwen3.5-omni-plus,Romantic,True
+musp_134,10,P,qwen3.5-omni-plus,C5,False
+musp_135,10,P,qwen3.5-omni-plus,3:39,True
+musp_136,10,P,qwen3.5-omni-plus,2:00,True
+musp_262,10,general,qwen3.5-omni-plus,2,False
+musp_263,10,general,qwen3.5-omni-plus,"[""eighth note G, sixteenth note E, sixteenth note C, eighth note D, eighth note E""]",False
+musp_264,10,general,qwen3.5-omni-plus,"[""G major"", ""F major""]",False
+musp_265,10,composer/title,qwen3.5-omni-plus,"[""Wolfgang Amadeus Mozart""]",False
+musp_266,10,composer/title,qwen3.5-omni-plus,"Piano Sonata No. 7 in C Major, K. 309: III. Rondo",False
+musp_267,10,tonality/style,qwen3.5-omni-plus,C major,True
+musp_268,10,tonality/style,qwen3.5-omni-plus,Classical,True
+musp_137,11,P,qwen3.5-omni-plus,00:39,False
+musp_138,11,P,qwen3.5-omni-plus,11:24,False
+musp_139,11,P,qwen3.5-omni-plus,+1,False
+musp_140,11,P,qwen3.5-omni-plus,03:07,True
+musp_141,11,P,qwen3.5-omni-plus,6:35,False
+musp_269,11,general,qwen3.5-omni-plus,"[""A#, B""]",False
+musp_270,11,general,qwen3.5-omni-plus,3,False
+musp_271,11,general,qwen3.5-omni-plus,"[""F#"", ""G"", ""A"", ""B"", ""C#"", ""B"", ""A"", ""G#"", ""F#"", ""E"", ""D"", ""C#"", ""B""]",False
+musp_272,11,composer/title,qwen3.5-omni-plus,Franz Liszt,True
+musp_273,11,composer/title,qwen3.5-omni-plus,"Piano Sonata in B minor, Op. 58",False
+musp_274,11,tonality/style,qwen3.5-omni-plus,B minor,True
+musp_275,11,tonality/style,qwen3.5-omni-plus,Late Romantic,True
+musp_142,12,P,qwen3.5-omni-plus,"[""tonic"", ""subdominant"", ""dominant"", ""tonic""]",False
+musp_143,12,P,qwen3.5-omni-plus,6,False
+musp_144,12,P,qwen3.5-omni-plus,"[""C#"", ""G#"", ""B""]",False
+musp_145,12,P,qwen3.5-omni-plus,0:23,False
+musp_146,12,P,qwen3.5-omni-plus,00:27,True
+musp_276,12,general,qwen3.5-omni-plus,"[""A"", ""C"", ""D"", ""C"", ""Bb"", ""A"", ""G"", ""F""]",False
+musp_277,12,composer/title,qwen3.5-omni-plus,"[""Wolfgang Amadeus Mozart""]",True
+musp_278,12,composer/title,qwen3.5-omni-plus,"Piano Sonata No. 12 in F Major, K. 332: I. Allegro",False
+musp_279,12,tonality/style,qwen3.5-omni-plus,F major,True
+musp_280,12,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,False
+musp_147,13,P,qwen3.5-omni-plus,"[""02:05""]",True
+musp_148,13,P,qwen3.5-omni-plus,00:18,False
+musp_149,13,P,qwen3.5-omni-plus,0:57,False
+musp_281,13,composer/title,qwen3.5-omni-plus,"[""Muzio Clementi""]",False
+musp_282,13,composer/title,qwen3.5-omni-plus,"Piano Sonata No. 12 in F major, K. 332: III. Allegro assai",False
+musp_283,13,tonality/style,qwen3.5-omni-plus,F major,True
+musp_284,13,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,False
+musp_150,14,P,qwen3.5-omni-plus,18,False
+musp_151,14,P,qwen3.5-omni-plus,02:49,True
+musp_152,14,P,qwen3.5-omni-plus,"[""F#"", ""E"", ""D"", ""C#"", ""B"", ""A""]",False
+musp_153,14,P,qwen3.5-omni-plus,04:05,False
+musp_154,14,P,qwen3.5-omni-plus,1:56,False
+musp_155,14,P,qwen3.5-omni-plus,0:54,False
+musp_156,14,P,qwen3.5-omni-plus,2:40,False
+musp_285,14,general,qwen3.5-omni-plus,16,False
+musp_286,14,composer/title,qwen3.5-omni-plus,"[""Sergei Rachmaninoff""]",True
+musp_287,14,composer/title,qwen3.5-omni-plus,"Prelude in G minor, Op. 23 No. 5",False
+musp_288,14,tonality/style,qwen3.5-omni-plus,D major,True
+musp_289,14,tonality/style,qwen3.5-omni-plus,Romantic,False
+musp_157,15,P,qwen3.5-omni-plus,"[""C4"", ""Bb3"", ""Ab3"", ""G3""]",False
+musp_158,15,P,qwen3.5-omni-plus,2,False
+musp_159,15,P,qwen3.5-omni-plus,01:35,False
+musp_160,15,P,qwen3.5-omni-plus,"[""major second""]",False
+musp_161,15,P,qwen3.5-omni-plus,1:43,False
+musp_162,15,P,qwen3.5-omni-plus,C#5,False
+musp_163,15,P,qwen3.5-omni-plus,"[""F"", ""F"", ""Bb"", ""F"", ""C""]",False
+musp_164,15,P,qwen3.5-omni-plus,"[""00:00"", ""00:24"", ""00:48""]",False
+musp_165,15,P,qwen3.5-omni-plus,"more, C5",False
+musp_290,15,general,qwen3.5-omni-plus,[24],False
+musp_291,15,general,qwen3.5-omni-plus,1,True
+musp_292,15,composer/title,qwen3.5-omni-plus,"[""Franz Schubert""]",True
+musp_293,15,composer/title,qwen3.5-omni-plus,"Moment Musical in F minor, Op. 94, No. 3",False
+musp_294,15,tonality/style,qwen3.5-omni-plus,F minor,True
+musp_295,15,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,True
+musp_166,16,P,qwen3.5-omni-plus,"[""F#, E""]",False
+musp_167,16,P,qwen3.5-omni-plus,G4,False
+musp_168,16,P,qwen3.5-omni-plus,A minor,True
+musp_169,16,P,qwen3.5-omni-plus,4:25,False
+musp_170,16,P,qwen3.5-omni-plus,1:39,False
+musp_171,16,P,qwen3.5-omni-plus,"[""0:00"", ""0:57"", ""1:48""]",False
+musp_296,16,composer/title,qwen3.5-omni-plus,"[""Robert Schumann""]",True
+musp_297,16,composer/title,qwen3.5-omni-plus,"Arabeske in C Major, Op. 18",True
+musp_298,16,tonality/style,qwen3.5-omni-plus,"[""C major""]",True
+musp_299,16,tonality/style,qwen3.5-omni-plus,Romantic,True
+musp_172,17,P,qwen3.5-omni-plus,Bbm,False
+musp_173,17,P,qwen3.5-omni-plus,"[""G"", ""Ab"", ""Bb"", ""C"", ""Db""]",False
+musp_174,17,P,qwen3.5-omni-plus,"[""01:20""]",False
+musp_175,17,P,qwen3.5-omni-plus,"[""0:45"", ""2:46""]",False
+musp_300,17,general,qwen3.5-omni-plus,F,True
+musp_301,17,general,qwen3.5-omni-plus,"[""Bb"", ""F""]",False
+musp_302,17,general,qwen3.5-omni-plus,emotional depth,True
+musp_303,17,composer/title,qwen3.5-omni-plus,"[""Frédéric Chopin""]",False
+musp_304,17,composer/title,qwen3.5-omni-plus,"Nocturne in B-flat minor, Op. 9 No. 1",False
+musp_305,17,tonality/style,qwen3.5-omni-plus,B-flat minor,True
+musp_306,17,tonality/style,qwen3.5-omni-plus,Romantic,False
+musp_176,18,P,qwen3.5-omni-plus,"[""G""]",False
+musp_177,18,P,qwen3.5-omni-plus,"[""G, G""]",False
+musp_178,18,P,qwen3.5-omni-plus,01:22,False
+musp_307,18,composer/title,qwen3.5-omni-plus,Frédéric Chopin,False
+musp_308,18,composer/title,qwen3.5-omni-plus,"Piano Sonata in B minor, Op. 58",False
+musp_309,18,tonality/style,qwen3.5-omni-plus,"[""Ab minor""]",False
+musp_310,18,tonality/style,qwen3.5-omni-plus,Late Romantic,True
+musp_210,19,general,qwen3.5-omni-plus,7,False
+musp_211,19,composer/title,qwen3.5-omni-plus,[Ludwig van Beethoven],True
+musp_212,19,composer/title,qwen3.5-omni-plus,"Overture to ""The Marriage of Figaro""",False
+musp_213,19,tonality/style,qwen3.5-omni-plus,D major,True
+musp_214,19,tonality/style,qwen3.5-omni-plus,Classical,True
+musp_94,19,P,qwen3.5-omni-plus,"[""A"", ""B"", ""C#"", ""D"", ""E"", ""F#"", ""G""]",False
+musp_95,19,P,qwen3.5-omni-plus,"[""00:13""]",False
+musp_96,19,P,qwen3.5-omni-plus,00:21,False
+musp_100,20,P,qwen3.5-omni-plus,F,False
+musp_215,20,composer/title,qwen3.5-omni-plus,"[""Ludwig van Beethoven""]",True
+musp_216,20,composer/title,qwen3.5-omni-plus,"Symphony No. 5 in C minor, Op. 67",False
+musp_217,20,tonality/style,qwen3.5-omni-plus,"[""D major""]",True
+musp_218,20,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,True
+musp_97,20,P,qwen3.5-omni-plus,00:04,False
+musp_98,20,P,qwen3.5-omni-plus,Flute,False
+musp_99,20,P,qwen3.5-omni-plus,"[""D"", ""A"", ""D"", ""A"", ""D"", ""A""]",False
+musp_101,21,P,qwen3.5-omni-plus,00:08,False
+musp_102,21,P,qwen3.5-omni-plus,0:28,False
+musp_219,21,composer/title,qwen3.5-omni-plus,[Ludwig van Beethoven],True
+musp_220,21,composer/title,qwen3.5-omni-plus,"Symphony No. 5 in C minor, Op. 67",False
+musp_221,21,tonality/style,qwen3.5-omni-plus,"[""E-flat major""]",True
+musp_222,21,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,True
+musp_103,22,P,qwen3.5-omni-plus,"[""Violins""]",True
+musp_104,22,P,qwen3.5-omni-plus,00:14,False
+musp_105,22,P,qwen3.5-omni-plus,0:26,False
+musp_106,22,P,qwen3.5-omni-plus,00:25,False
+musp_223,22,general,qwen3.5-omni-plus,3,False
+musp_224,22,composer/title,qwen3.5-omni-plus,"[""Ludwig van Beethoven""]",True
+musp_225,22,composer/title,qwen3.5-omni-plus,Symphony No. 5 in C minor,False
+musp_226,22,tonality/style,qwen3.5-omni-plus,"[""C minor""]",True
+musp_227,22,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,True
+musp_107,23,P,qwen3.5-omni-plus,"[""C""]",False
+musp_108,23,P,qwen3.5-omni-plus,"[""trill""]",False
+musp_109,23,P,qwen3.5-omni-plus,0:08,False
+musp_110,23,P,qwen3.5-omni-plus,"[""00:09, 00:13""]",False
+musp_111,23,P,qwen3.5-omni-plus,"[""F""]",False
+musp_112,23,P,qwen3.5-omni-plus,00:08,False
+musp_228,23,composer/title,qwen3.5-omni-plus,"[""Johann Strauss II""]",False
+musp_229,23,composer/title,qwen3.5-omni-plus,Symphony No. 33 in B-flat major,False
+musp_230,23,tonality/style,qwen3.5-omni-plus,"[""F major""]",True
+musp_231,23,tonality/style,qwen3.5-omni-plus,Late Classical / Early Romantic,True
+musp_113,24,P,qwen3.5-omni-plus,"[""F"", ""Eb""]",False
+musp_232,24,general,qwen3.5-omni-plus,1,False
+musp_233,24,composer/title,qwen3.5-omni-plus,"[""Ludwig van Beethoven""]",True
+musp_234,24,composer/title,qwen3.5-omni-plus,"Symphony No. 5 in C minor, Op. 67",False
+musp_235,24,tonality/style,qwen3.5-omni-plus,"[""E-flat major""]",False
+musp_236,24,tonality/style,qwen3.5-omni-plus,Romantic,False

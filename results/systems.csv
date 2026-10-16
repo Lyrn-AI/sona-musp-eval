@@ -1,0 +1,11 @@
+system,file,model,input,settings
+GPT-6 Astra + Sona,gpt-6-astra_sona.csv,gpt-6-astra,Sona,reasoning effort high; OpenAI Batch API
+GPT-6 Sol + Sona,gpt-6-sol_sona.csv,gpt-6-sol,Sona,reasoning effort high; OpenAI Batch API; composer/title answered by qwen3.5-omni-plus on audio (see notes)
+"GPT-6 Sol + Sona, no deferral",gpt-6-sol_sona_no-deferral.csv,gpt-6-sol,Sona,reasoning effort high; OpenAI Batch API; every question answered by gpt-6-sol (not in the report)
+Claude Opus 5.5 + Sona,claude-opus-5-5_sona.csv,claude-opus-5-5,Sona,"adaptive thinking, effort high"
+Gemini 3.8 Flash + Sona,gemini-3.8-flash_sona.csv,gemini-3.8-flash,audio + Sona,"default thinking, provider-default temperature, max output 32,768"
+Qwen3.5-Omni-Plus + Sona,qwen3.5-omni-plus_sona.csv,qwen3.5-omni-plus,audio + Sona,"temperature 0, max output 16,384; piece 5 answered on audio only (see notes)"
+Qwen3.5-Omni-Plus,qwen3.5-omni-plus_audio.csv,qwen3.5-omni-plus,audio,"temperature 0, max output 8,192"
+Gemini 3.8 Flash,gemini-3.8-flash_audio.csv,gemini-3.8-flash,audio,"default thinking, provider-default temperature, max output 32,768"
+Qwen3-Omni-Flash,qwen3-omni-flash_audio.csv,qwen3-omni-flash,audio,temperature 0
+Qwen3-Omni-30B-A3B,qwen3-omni-30b-a3b_audio.csv,Qwen/Qwen3-Omni-30B-A3B-Instruct,audio,"open weights served with vLLM 0.11.2, temperature 0"

@@ -1,0 +1,5 @@
+pandas
+huggingface_hub
+# only for musp_eval/audio_baseline.py
+openai
+google-genai

@@ -1,0 +1,239 @@
+id,piece,subset,answered_by,extracted,correct
+musp_179,1,general,gpt-6-astra,"D4, G5, C5",True
+musp_180,1,general,gpt-6-astra,"2, 1, 3, 2, 3",False
+musp_181,1,general,gpt-6-astra,"A4, D3, D4",False
+musp_182,1,composer/title,gpt-6-astra,Johann Sebastian Bach,True
+musp_183,1,composer/title,gpt-6-astra,"Invention No. 4 in D minor, BWV 775",False
+musp_184,1,tonality/style,gpt-6-astra,D minor,True
+musp_185,1,tonality/style,gpt-6-astra,Baroque,True
+musp_73,1,P,gpt-6-astra,"D, Eb, D, C, Eb, D, C, B, G, A, G, F, A, G, F, E",True
+musp_74,1,P,gpt-6-astra,"2, 3, 1",False
+musp_75,1,P,gpt-6-astra,G,False
+musp_76,1,P,gpt-6-astra,perfect fourth,True
+musp_77,1,P,gpt-6-astra,"0:00, 0:22, 0:43, 0:57, 1:45",False
+musp_186,2,composer/title,gpt-6-astra,Johann Sebastian Bach,True
+musp_187,2,composer/title,gpt-6-astra,"Prelude in C-sharp major, BWV 848",True
+musp_188,2,tonality/style,gpt-6-astra,Db major,False
+musp_189,2,tonality/style,gpt-6-astra,Baroque,True
+musp_78,2,P,gpt-6-astra,Gb4,False
+musp_79,2,P,gpt-6-astra,0:27,False
+musp_80,2,P,gpt-6-astra,90-100,True
+musp_81,2,P,gpt-6-astra,0:55,True
+musp_190,3,general,gpt-6-astra,2:5,True
+musp_191,3,general,gpt-6-astra,8,False
+musp_192,3,composer/title,gpt-6-astra,Mily Balakirev,True
+musp_193,3,composer/title,gpt-6-astra,Islamey (Oriental Fantasy),False
+musp_194,3,tonality/style,gpt-6-astra,Db major,True
+musp_195,3,tonality/style,gpt-6-astra,Romantic,True
+musp_82,3,P,gpt-6-astra,4:22,False
+musp_83,3,P,gpt-6-astra,0:32,True
+musp_84,3,P,gpt-6-astra,6:56,True
+musp_196,4,general,gpt-6-astra,"D5, E5",True
+musp_197,4,general,gpt-6-astra,anger,True
+musp_198,4,general,gpt-6-astra,Db major,True
+musp_199,4,general,gpt-6-astra,C2,True
+musp_200,4,general,gpt-6-astra,"1, 2, 2, 1",True
+musp_201,4,composer/title,gpt-6-astra,Ludwig van Beethoven,True
+musp_202,4,composer/title,gpt-6-astra,"Piano Sonata No. 23 in F minor, Op. 57 (Appassionata): I. Allegro assai",False
+musp_203,4,tonality/style,gpt-6-astra,F minor,True
+musp_204,4,tonality/style,gpt-6-astra,Late Classical / Early Romantic,False
+musp_85,4,P,gpt-6-astra,"C, Db, C",True
+musp_86,4,P,gpt-6-astra,0:36,True
+musp_87,4,P,gpt-6-astra,9:11,True
+musp_88,4,P,gpt-6-astra,4:58,True
+musp_89,4,P,gpt-6-astra,00:35,True
+musp_90,4,P,gpt-6-astra,0:30,False
+musp_91,4,P,gpt-6-astra,"1:58, 6:55",True
+musp_205,5,general,gpt-6-astra,F6,True
+musp_206,5,composer/title,gpt-6-astra,Ludwig van Beethoven,True
+musp_207,5,composer/title,gpt-6-astra,"Piano Sonata No. 21 in C major, Op. 53 (Waldstein), I. Allegro con brio",False
+musp_208,5,tonality/style,gpt-6-astra,C major,True
+musp_209,5,tonality/style,gpt-6-astra,Late Classical / Early Romantic,True
+musp_92,5,P,gpt-6-astra,deceptive cadence,True
+musp_93,5,P,gpt-6-astra,"F, F, F",True
+musp_114,6,P,gpt-6-astra,"G, F, Eb, Eb, D, F, Eb, Eb, D, D, C, Bb, A, G, F#",False
+musp_115,6,P,gpt-6-astra,8:44,True
+musp_116,6,P,gpt-6-astra,6:31,True
+musp_117,6,P,gpt-6-astra,"D4, Db4, Cb4, Bb3",False
+musp_118,6,P,gpt-6-astra,5:59,True
+musp_119,6,P,gpt-6-astra,8:01,True
+musp_237,6,general,gpt-6-astra,G melodic minor,True
+musp_238,6,general,gpt-6-astra,13,True
+musp_239,6,general,gpt-6-astra,Waltz,True
+musp_240,6,composer/title,gpt-6-astra,Frédéric Chopin,True
+musp_241,6,composer/title,gpt-6-astra,"Ballade No. 1 in G minor, Op. 23",True
+musp_242,6,tonality/style,gpt-6-astra,G minor,True
+musp_243,6,tonality/style,gpt-6-astra,Romantic,True
+musp_120,7,P,gpt-6-astra,4,True
+musp_121,7,P,gpt-6-astra,"G#, A, G#, C#, E, G#, C#, A, B#, C#",True
+musp_122,7,P,gpt-6-astra,"0:41, 0:43",True
+musp_123,7,P,gpt-6-astra,175,True
+musp_124,7,P,gpt-6-astra,"00:01, 00:06, 00:12, 01:07, 01:12, 01:18",False
+musp_244,7,general,gpt-6-astra,2,False
+musp_245,7,composer/title,gpt-6-astra,Frédéric Chopin,True
+musp_246,7,composer/title,gpt-6-astra,"Étude in C-sharp minor, Op. 10 No. 4",True
+musp_247,7,tonality/style,gpt-6-astra,C# minor,True
+musp_248,7,tonality/style,gpt-6-astra,Romantic,True
+musp_125,8,P,gpt-6-astra,"F5, E5, Eb5, D5",False
+musp_126,8,P,gpt-6-astra,"Ab, F, Eb",True
+musp_127,8,P,gpt-6-astra,"2, 3, 1",True
+musp_128,8,P,gpt-6-astra,Ab2,True
+musp_129,8,P,gpt-6-astra,1:41,False
+musp_249,8,general,gpt-6-astra,"perfect fourth, perfect fifth",True
+musp_250,8,general,gpt-6-astra,Bb7,True
+musp_251,8,composer/title,gpt-6-astra,Claude Debussy,True
+musp_252,8,composer/title,gpt-6-astra,"Reflets dans l'eau, from Images, Book I",False
+musp_253,8,tonality/style,gpt-6-astra,Db major,True
+musp_254,8,tonality/style,gpt-6-astra,Impressionistic,True
+musp_130,9,P,gpt-6-astra,E,True
+musp_131,9,P,gpt-6-astra,1:05,True
+musp_132,9,P,gpt-6-astra,2:47,True
+musp_133,9,P,gpt-6-astra,4:57,True
+musp_255,9,general,gpt-6-astra,9,True
+musp_256,9,general,gpt-6-astra,B,True
+musp_257,9,general,gpt-6-astra,"F7, Gb7, F7",True
+musp_258,9,composer/title,gpt-6-astra,Mily Balakirev,False
+musp_259,9,composer/title,gpt-6-astra,The Lark,True
+musp_260,9,tonality/style,gpt-6-astra,Bb minor,True
+musp_261,9,tonality/style,gpt-6-astra,Romantic,True
+musp_134,10,P,gpt-6-astra,D6,True
+musp_135,10,P,gpt-6-astra,3:40,True
+musp_136,10,P,gpt-6-astra,2:00,True
+musp_262,10,general,gpt-6-astra,4,True
+musp_263,10,general,gpt-6-astra,"eighth note G, eighth note G",True
+musp_264,10,general,gpt-6-astra,"G major, C minor",True
+musp_265,10,composer/title,gpt-6-astra,Joseph Haydn,True
+musp_266,10,composer/title,gpt-6-astra,"Piano Sonata No. 58 in C major, Hob. XVI:48 — II. Rondo: Presto",False
+musp_267,10,tonality/style,gpt-6-astra,C major,True
+musp_268,10,tonality/style,gpt-6-astra,Classical,True
+musp_137,11,P,gpt-6-astra,00:51,True
+musp_138,11,P,gpt-6-astra,11:39,False
+musp_139,11,P,gpt-6-astra,-1,True
+musp_140,11,P,gpt-6-astra,3:07,True
+musp_141,11,P,gpt-6-astra,6:14,True
+musp_269,11,general,gpt-6-astra,"G#, F#",True
+musp_270,11,general,gpt-6-astra,4,True
+musp_271,11,general,gpt-6-astra,"F#, G, A, B, F#, A, G, G, F#, C#, D, E, F#, C#, D, E, F#, G, A, B",True
+musp_272,11,composer/title,gpt-6-astra,Franz Liszt,True
+musp_273,11,composer/title,gpt-6-astra,"Ballade No. 2 in B minor, S. 171",True
+musp_274,11,tonality/style,gpt-6-astra,B minor,True
+musp_275,11,tonality/style,gpt-6-astra,Romantic,True
+musp_142,12,P,gpt-6-astra,"tonic, dominant of the subdominant, subdominant, dominant",True
+musp_143,12,P,gpt-6-astra,5,True
+musp_144,12,P,gpt-6-astra,"C#, B, A",True
+musp_145,12,P,gpt-6-astra,0:14,True
+musp_146,12,P,gpt-6-astra,0:27,True
+musp_276,12,general,gpt-6-astra,"F, A, C, A, Bb, G, F, E, E, F, A, D, G, C, A, F, G, E, F, E, D, E, A, Bb, D, D, C, Bb, A, G, F, G, Bb, E, F",False
+musp_277,12,composer/title,gpt-6-astra,Wolfgang Amadeus Mozart,True
+musp_278,12,composer/title,gpt-6-astra,"Piano Sonata No. 12 in F major, K. 332: I. Allegro",False
+musp_279,12,tonality/style,gpt-6-astra,F major,True
+musp_280,12,tonality/style,gpt-6-astra,Classical,True
+musp_147,13,P,gpt-6-astra,2:05,True
+musp_148,13,P,gpt-6-astra,0:16,True
+musp_149,13,P,gpt-6-astra,1:46,True
+musp_281,13,composer/title,gpt-6-astra,Wolfgang Amadeus Mozart,True
+musp_282,13,composer/title,gpt-6-astra,"Piano Sonata No. 12 in F major, K. 332: III. Allegro assai",False
+musp_283,13,tonality/style,gpt-6-astra,F major,True
+musp_284,13,tonality/style,gpt-6-astra,Classical,True
+musp_150,14,P,gpt-6-astra,12,True
+musp_151,14,P,gpt-6-astra,2:49,True
+musp_152,14,P,gpt-6-astra,"F#, E, F#, B, C#, D, C#, D, E, F#, G, F#, G, D, E, F#, E, F#, G, G#, A",True
+musp_153,14,P,gpt-6-astra,2:19,True
+musp_154,14,P,gpt-6-astra,1:03,True
+musp_155,14,P,gpt-6-astra,0:32,True
+musp_156,14,P,gpt-6-astra,2:42,True
+musp_285,14,general,gpt-6-astra,18,True
+musp_286,14,composer/title,gpt-6-astra,Sergei Rachmaninoff,True
+musp_287,14,composer/title,gpt-6-astra,"Prelude in D major, Op. 23 No. 4",True
+musp_288,14,tonality/style,gpt-6-astra,D major,True
+musp_289,14,tonality/style,gpt-6-astra,Late Romantic,True
+musp_157,15,P,gpt-6-astra,"Ab4, Gb4, F4, Db4",False
+musp_158,15,P,gpt-6-astra,9,True
+musp_159,15,P,gpt-6-astra,01:29,True
+musp_160,15,P,gpt-6-astra,perfect fourth,True
+musp_161,15,P,gpt-6-astra,1:40,True
+musp_162,15,P,gpt-6-astra,Bb5,True
+musp_163,15,P,gpt-6-astra,"F, Db, C, Bb, C",False
+musp_164,15,P,gpt-6-astra,"00:03, 00:24, 00:45",True
+musp_165,15,P,gpt-6-astra,"more, E5",True
+musp_290,15,general,gpt-6-astra,36,True
+musp_291,15,general,gpt-6-astra,1,True
+musp_292,15,composer/title,gpt-6-astra,Franz Schubert,True
+musp_293,15,composer/title,gpt-6-astra,"Moment musical in F minor, Op. 94 No. 3",True
+musp_294,15,tonality/style,gpt-6-astra,F minor,True
+musp_295,15,tonality/style,gpt-6-astra,Late Classical / Early Romantic,True
+musp_166,16,P,gpt-6-astra,"F, G",True
+musp_167,16,P,gpt-6-astra,D5,True
+musp_168,16,P,gpt-6-astra,A minor,True
+musp_169,16,P,gpt-6-astra,4:55,True
+musp_170,16,P,gpt-6-astra,02:01,True
+musp_171,16,P,gpt-6-astra,"0:00, 0:53, 2:15",True
+musp_296,16,composer/title,gpt-6-astra,Robert Schumann,True
+musp_297,16,composer/title,gpt-6-astra,"Arabeske in C major, Op. 18",True
+musp_298,16,tonality/style,gpt-6-astra,C major,True
+musp_299,16,tonality/style,gpt-6-astra,Romantic,True
+musp_172,17,P,gpt-6-astra,Fsus4,True
+musp_173,17,P,gpt-6-astra,"F, Ab, Gb, F, Gb",True
+musp_174,17,P,gpt-6-astra,1:26,True
+musp_175,17,P,gpt-6-astra,"0:44, 2:45, 3:25",True
+musp_300,17,general,gpt-6-astra,F,True
+musp_301,17,general,gpt-6-astra,"Cb, F",True
+musp_302,17,general,gpt-6-astra,emotional depth,True
+musp_303,17,composer/title,gpt-6-astra,Sergei Rachmaninoff,False
+musp_304,17,composer/title,gpt-6-astra,"Étude in B-flat minor, Op. 8 No. 11",True
+musp_305,17,tonality/style,gpt-6-astra,Bb minor,True
+musp_306,17,tonality/style,gpt-6-astra,Late Romantic,True
+musp_176,18,P,gpt-6-astra,D#,True
+musp_177,18,P,gpt-6-astra,"C, D",True
+musp_178,18,P,gpt-6-astra,0:00,False
+musp_307,18,composer/title,gpt-6-astra,Alexander Scriabin,True
+musp_308,18,composer/title,gpt-6-astra,"Piano Sonata No. 5, Op. 53",True
+musp_309,18,tonality/style,gpt-6-astra,F# major,True
+musp_310,18,tonality/style,gpt-6-astra,Late Romantic,True
+musp_210,19,general,gpt-6-astra,7,False
+musp_211,19,composer/title,gpt-6-astra,Wolfgang Amadeus Mozart,False
+musp_212,19,composer/title,gpt-6-astra,"Symphony No. 2 in D major, Op. 36",False
+musp_213,19,tonality/style,gpt-6-astra,D major,True
+musp_214,19,tonality/style,gpt-6-astra,Classical,True
+musp_94,19,P,gpt-6-astra,"F#, A, F#, D, G, B, D, E, F, F#, A, C, B, A, G, F#, G, E, A",False
+musp_95,19,P,gpt-6-astra,00:16,True
+musp_96,19,P,gpt-6-astra,00:17,True
+musp_100,20,P,gpt-6-astra,A,True
+musp_215,20,composer/title,gpt-6-astra,Ludwig van Beethoven,True
+musp_216,20,composer/title,gpt-6-astra,"Symphony No. 2 in D major, Op. 36",False
+musp_217,20,tonality/style,gpt-6-astra,D major,True
+musp_218,20,tonality/style,gpt-6-astra,Late Classical / Early Romantic,True
+musp_97,20,P,gpt-6-astra,00:05,True
+musp_98,20,P,gpt-6-astra,Violin,True
+musp_99,20,P,gpt-6-astra,"D, D, D, C#, D, D, E, A, G#, A",False
+musp_101,21,P,gpt-6-astra,00:18,True
+musp_102,21,P,gpt-6-astra,00:18,True
+musp_219,21,composer/title,gpt-6-astra,Wolfgang Amadeus Mozart,False
+musp_220,21,composer/title,gpt-6-astra,"Symphony No. 3 in E-flat major, Op. 55, Eroica",False
+musp_221,21,tonality/style,gpt-6-astra,Eb major,True
+musp_222,21,tonality/style,gpt-6-astra,Classical,False
+musp_103,22,P,gpt-6-astra,"Clarinets, horns",False
+musp_104,22,P,gpt-6-astra,00:10,True
+musp_105,22,P,gpt-6-astra,0:18,False
+musp_106,22,P,gpt-6-astra,00:18,True
+musp_223,22,general,gpt-6-astra,8,False
+musp_224,22,composer/title,gpt-6-astra,Ludwig van Beethoven,True
+musp_225,22,composer/title,gpt-6-astra,"Symphony No. 5 in C minor, Op. 67",False
+musp_226,22,tonality/style,gpt-6-astra,C minor,True
+musp_227,22,tonality/style,gpt-6-astra,Late Classical / Early Romantic,True
+musp_107,23,P,gpt-6-astra,F,True
+musp_108,23,P,gpt-6-astra,turn,True
+musp_109,23,P,gpt-6-astra,0:05,False
+musp_110,23,P,gpt-6-astra,"00:10, 00:17",True
+musp_111,23,P,gpt-6-astra,C,False
+musp_112,23,P,gpt-6-astra,00:05,True
+musp_228,23,composer/title,gpt-6-astra,Ludwig van Beethoven,True
+musp_229,23,composer/title,gpt-6-astra,"Symphony No. 8 in F major, Op. 93",False
+musp_230,23,tonality/style,gpt-6-astra,F major,True
+musp_231,23,tonality/style,gpt-6-astra,Late Classical / Early Romantic,True
+musp_113,24,P,gpt-6-astra,"Bb, A, G, F",False
+musp_232,24,general,gpt-6-astra,8,False
+musp_233,24,composer/title,gpt-6-astra,Wolfgang Amadeus Mozart,False
+musp_234,24,composer/title,gpt-6-astra,"Symphony No. 104 in D major, London",False
+musp_235,24,tonality/style,gpt-6-astra,D minor,True
+musp_236,24,tonality/style,gpt-6-astra,Classical,False

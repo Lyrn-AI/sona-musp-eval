@@ -1,0 +1,239 @@
+id,piece,subset,answered_by,extracted,correct
+musp_179,1,general,gemini-3.8-flash,"D4, G5, C5",True
+musp_180,1,general,gemini-3.8-flash,"2, 1, 3",False
+musp_181,1,general,gemini-3.8-flash,"A4, D3, D4",False
+musp_182,1,composer/title,gemini-3.8-flash,Johann Sebastian Bach,True
+musp_183,1,composer/title,gemini-3.8-flash,"Sinfonia No. 4 in D minor, BWV 790",False
+musp_184,1,tonality/style,gemini-3.8-flash,"[""D minor""]",True
+musp_185,1,tonality/style,gemini-3.8-flash,Baroque,True
+musp_73,1,P,gemini-3.8-flash,"D, Eb, D, C, Eb, D, C, B, G, A, G, F, A, G, F, E",True
+musp_74,1,P,gemini-3.8-flash,"2, 3, 1",False
+musp_75,1,P,gemini-3.8-flash,Eb,False
+musp_76,1,P,gemini-3.8-flash,perfect fourth,True
+musp_77,1,P,gemini-3.8-flash,"0:00, 0:22, 0:43, 1:45",False
+musp_186,2,composer/title,gemini-3.8-flash,Christian Sinding,False
+musp_187,2,composer/title,gemini-3.8-flash,"Étude in D-flat major, Op. 72 No. 12",False
+musp_188,2,tonality/style,gemini-3.8-flash,D-flat major,False
+musp_189,2,tonality/style,gemini-3.8-flash,Romantic,False
+musp_78,2,P,gemini-3.8-flash,Eb5,False
+musp_79,2,P,gemini-3.8-flash,0:28,False
+musp_80,2,P,gemini-3.8-flash,90-100,True
+musp_81,2,P,gemini-3.8-flash,0:55,True
+musp_190,3,general,gemini-3.8-flash,2:5,True
+musp_191,3,general,gemini-3.8-flash,6,True
+musp_192,3,composer/title,gemini-3.8-flash,Franz Liszt,False
+musp_193,3,composer/title,gemini-3.8-flash,Hungarian Dance No. 6 in D-flat major,False
+musp_194,3,tonality/style,gemini-3.8-flash,D-flat major,True
+musp_195,3,tonality/style,gemini-3.8-flash,Romantic,True
+musp_82,3,P,gemini-3.8-flash,04:05,False
+musp_83,3,P,gemini-3.8-flash,0:34,False
+musp_84,3,P,gemini-3.8-flash,06:56,True
+musp_196,4,general,gemini-3.8-flash,"[""D5, E5""]",True
+musp_197,4,general,gemini-3.8-flash,tenderness,False
+musp_198,4,general,gemini-3.8-flash,Db major,True
+musp_199,4,general,gemini-3.8-flash,C2,True
+musp_200,4,general,gemini-3.8-flash,"2, 1",False
+musp_201,4,composer/title,gemini-3.8-flash,Franz Liszt,False
+musp_202,4,composer/title,gemini-3.8-flash,"Fantaisie in F minor, Op. 49",False
+musp_203,4,tonality/style,gemini-3.8-flash,"[""F minor""]",True
+musp_204,4,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,False
+musp_85,4,P,gemini-3.8-flash,"[""C, Db, C""]",True
+musp_86,4,P,gemini-3.8-flash,00:36,True
+musp_87,4,P,gemini-3.8-flash,09:11,True
+musp_88,4,P,gemini-3.8-flash,04:58,True
+musp_89,4,P,gemini-3.8-flash,00:35,True
+musp_90,4,P,gemini-3.8-flash,0:30,False
+musp_91,4,P,gemini-3.8-flash,"[""01:58, 06:55""]",True
+musp_205,5,general,gemini-3.8-flash,F6,True
+musp_206,5,composer/title,gemini-3.8-flash,"[""Ludwig van Beethoven""]",True
+musp_207,5,composer/title,gemini-3.8-flash,"Piano Sonata No. 21 in C major, Op. 53",False
+musp_208,5,tonality/style,gemini-3.8-flash,C major,True
+musp_209,5,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,True
+musp_92,5,P,gemini-3.8-flash,deceptive cadence,True
+musp_93,5,P,gemini-3.8-flash,"[""F, F, F""]",True
+musp_114,6,P,gemini-3.8-flash,"F, Eb, Eb, D, F, Eb, Eb, D, D, C, Bb, A",False
+musp_115,6,P,gemini-3.8-flash,08:44,True
+musp_116,6,P,gemini-3.8-flash,6:31,True
+musp_117,6,P,gemini-3.8-flash,"[""F4, Ab4, Bb4, D5, C5, Bb4, Db4, Eb4, G4, C5, Bb4, Ab4""]",False
+musp_118,6,P,gemini-3.8-flash,6:02,False
+musp_119,6,P,gemini-3.8-flash,08:01,True
+musp_237,6,general,gemini-3.8-flash,G melodic minor,True
+musp_238,6,general,gemini-3.8-flash,13,True
+musp_239,6,general,gemini-3.8-flash,Waltz,True
+musp_240,6,composer/title,gemini-3.8-flash,Frédéric Chopin,True
+musp_241,6,composer/title,gemini-3.8-flash,"Ballade No. 1 in G minor, Op. 23",True
+musp_242,6,tonality/style,gemini-3.8-flash,G minor,True
+musp_243,6,tonality/style,gemini-3.8-flash,Romantic,True
+musp_120,7,P,gemini-3.8-flash,4,True
+musp_121,7,P,gemini-3.8-flash,"G#, A, G#, C#, E, G#, C#, A, G#, C#",False
+musp_122,7,P,gemini-3.8-flash,"[""00:41, 00:43""]",True
+musp_123,7,P,gemini-3.8-flash,175,True
+musp_124,7,P,gemini-3.8-flash,"[""00:01, 00:11, 01:07, 01:17""]",True
+musp_244,7,general,gemini-3.8-flash,2,False
+musp_245,7,composer/title,gemini-3.8-flash,Franz Liszt,False
+musp_246,7,composer/title,gemini-3.8-flash,"Etude in C-sharp minor, Op. 72 No. 10",False
+musp_247,7,tonality/style,gemini-3.8-flash,C-sharp minor,True
+musp_248,7,tonality/style,gemini-3.8-flash,Romantic,True
+musp_125,8,P,gemini-3.8-flash,"E#5, E5, D#5, D5",False
+musp_126,8,P,gemini-3.8-flash,"[""G#, E#, D#""]",False
+musp_127,8,P,gemini-3.8-flash,"2, 3, 1",True
+musp_128,8,P,gemini-3.8-flash,Db2,False
+musp_129,8,P,gemini-3.8-flash,01:42,False
+musp_249,8,general,gemini-3.8-flash,"[""perfect fourth, perfect fifth""]",True
+musp_250,8,general,gemini-3.8-flash,Ab7,False
+musp_251,8,composer/title,gemini-3.8-flash,Charles Griffes,False
+musp_252,8,composer/title,gemini-3.8-flash,Reflets dans l'eau,True
+musp_253,8,tonality/style,gemini-3.8-flash,"[""D-flat major""]",True
+musp_254,8,tonality/style,gemini-3.8-flash,Impressionistic,True
+musp_130,9,P,gemini-3.8-flash,E,True
+musp_131,9,P,gemini-3.8-flash,1:05,True
+musp_132,9,P,gemini-3.8-flash,"Wait, 01:01 is 1:01.Final answer: 01:01",False
+musp_133,9,P,gemini-3.8-flash,04:58,True
+musp_255,9,general,gemini-3.8-flash,9,True
+musp_256,9,general,gemini-3.8-flash,C,False
+musp_257,9,general,gemini-3.8-flash,"[""F7"", ""Gb7"", ""F7""]",True
+musp_258,9,composer/title,gemini-3.8-flash,Sergei Rachmaninoff,False
+musp_259,9,composer/title,gemini-3.8-flash,Nocturne No. 1 in B-flat minor,False
+musp_260,9,tonality/style,gemini-3.8-flash,B-flat minor,True
+musp_261,9,tonality/style,gemini-3.8-flash,Romantic,True
+musp_134,10,P,gemini-3.8-flash,F6,False
+musp_135,10,P,gemini-3.8-flash,3:41,False
+musp_136,10,P,gemini-3.8-flash,2:00,True
+musp_262,10,general,gemini-3.8-flash,4,True
+musp_263,10,general,gemini-3.8-flash,"eighth note G, eighth note G",True
+musp_264,10,general,gemini-3.8-flash,"[""G major, C minor""]",True
+musp_265,10,composer/title,gemini-3.8-flash,Muzio Clementi,False
+musp_266,10,composer/title,gemini-3.8-flash,"Rondo in C major, Op. 51 No. 1",False
+musp_267,10,tonality/style,gemini-3.8-flash,C major,True
+musp_268,10,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,False
+musp_137,11,P,gemini-3.8-flash,00:51,True
+musp_138,11,P,gemini-3.8-flash,11:28,True
+musp_139,11,P,gemini-3.8-flash,-1,True
+musp_140,11,P,gemini-3.8-flash,03:07,True
+musp_141,11,P,gemini-3.8-flash,B2 is 4 semitones above G,False
+musp_269,11,general,gemini-3.8-flash,"[""G#, F#""]",True
+musp_270,11,general,gemini-3.8-flash,3,False
+musp_271,11,general,gemini-3.8-flash,"[""F#"", ""G"", ""A"", ""B"", ""F#"", ""A"", ""G"", ""F#"", ""C#"", ""D"", ""E"", ""F#"", ""C#"", ""D"", ""E"", ""F#"", ""G"", ""A"", ""B""]",False
+musp_272,11,composer/title,gemini-3.8-flash,Franz Liszt,True
+musp_273,11,composer/title,gemini-3.8-flash,"Ballade No. 2 in B minor, S. 171",True
+musp_274,11,tonality/style,gemini-3.8-flash,B minor,True
+musp_275,11,tonality/style,gemini-3.8-flash,Romantic,True
+musp_142,12,P,gemini-3.8-flash,"tonic, secondary dominant, subdominant, dominant",True
+musp_143,12,P,gemini-3.8-flash,4,False
+musp_144,12,P,gemini-3.8-flash,"[""C#, B, A""]",True
+musp_145,12,P,gemini-3.8-flash,0:14,True
+musp_146,12,P,gemini-3.8-flash,00:27,True
+musp_276,12,general,gemini-3.8-flash,"F, A, C, A, Bb, G, E, F",False
+musp_277,12,composer/title,gemini-3.8-flash,"[""Wolfgang Amadeus Mozart""]",True
+musp_278,12,composer/title,gemini-3.8-flash,"Piano Sonata No. 12 in F major, K. 332",False
+musp_279,12,tonality/style,gemini-3.8-flash,F major,True
+musp_280,12,tonality/style,gemini-3.8-flash,Classical,True
+musp_147,13,P,gemini-3.8-flash,02:05,True
+musp_148,13,P,gemini-3.8-flash,0:03,False
+musp_149,13,P,gemini-3.8-flash,1:46,True
+musp_281,13,composer/title,gemini-3.8-flash,Joseph Haydn,False
+musp_282,13,composer/title,gemini-3.8-flash,"Piano Sonata No. 12 in F major, K. 332",False
+musp_283,13,tonality/style,gemini-3.8-flash,F major,True
+musp_284,13,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,False
+musp_150,14,P,gemini-3.8-flash,12,True
+musp_151,14,P,gemini-3.8-flash,02:49,True
+musp_152,14,P,gemini-3.8-flash,"[""F#, E, F#, B, C#, D, C#, D, E, F#, G, F#, G, D, E, F#, E, F#, G, G#, A""]",True
+musp_153,14,P,gemini-3.8-flash,02:49,False
+musp_154,14,P,gemini-3.8-flash,02:49,False
+musp_155,14,P,gemini-3.8-flash,0:32,True
+musp_156,14,P,gemini-3.8-flash,02:42,True
+musp_285,14,general,gemini-3.8-flash,18,True
+musp_286,14,composer/title,gemini-3.8-flash,Sergei Rachmaninoff,True
+musp_287,14,composer/title,gemini-3.8-flash,"Prelude in D major, Op. 23 No. 4",True
+musp_288,14,tonality/style,gemini-3.8-flash,D major,True
+musp_289,14,tonality/style,gemini-3.8-flash,Late Romantic,True
+musp_157,15,P,gemini-3.8-flash,"Ab4, Gb4, F4, Eb4",False
+musp_158,15,P,gemini-3.8-flash,9,True
+musp_159,15,P,gemini-3.8-flash,01:29,True
+musp_160,15,P,gemini-3.8-flash,perfect fourth,True
+musp_161,15,P,gemini-3.8-flash,1:40,True
+musp_162,15,P,gemini-3.8-flash,Bb5,True
+musp_163,15,P,gemini-3.8-flash,"Db, C, Bb, C, F",False
+musp_164,15,P,gemini-3.8-flash,"[""00:03, 00:24, 00:45""]",True
+musp_165,15,P,gemini-3.8-flash,"more, E5",True
+musp_290,15,general,gemini-3.8-flash,36,True
+musp_291,15,general,gemini-3.8-flash,1,True
+musp_292,15,composer/title,gemini-3.8-flash,Franz Schubert,True
+musp_293,15,composer/title,gemini-3.8-flash,"Moment musical in F minor, Op. 94 No. 3",True
+musp_294,15,tonality/style,gemini-3.8-flash,F minor,True
+musp_295,15,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,True
+musp_166,16,P,gemini-3.8-flash,"[""F, G""]",True
+musp_167,16,P,gemini-3.8-flash,D5,True
+musp_168,16,P,gemini-3.8-flash,A minor,True
+musp_169,16,P,gemini-3.8-flash,04:25,False
+musp_170,16,P,gemini-3.8-flash,02:01,True
+musp_171,16,P,gemini-3.8-flash,"0:00, 0:53, 2:15",True
+musp_296,16,composer/title,gemini-3.8-flash,Ludwig van Beethoven,False
+musp_297,16,composer/title,gemini-3.8-flash,"Arabeske in C major, Op. 18",True
+musp_298,16,tonality/style,gemini-3.8-flash,C major,True
+musp_299,16,tonality/style,gemini-3.8-flash,Classical,False
+musp_172,17,P,gemini-3.8-flash,Fsus4,True
+musp_173,17,P,gemini-3.8-flash,"[""F, Ab, Gb, F, Eb""]",False
+musp_174,17,P,gemini-3.8-flash,01:26,True
+musp_175,17,P,gemini-3.8-flash,"00:44, 02:45, 03:25",True
+musp_300,17,general,gemini-3.8-flash,F,True
+musp_301,17,general,gemini-3.8-flash,"[""Cb, Bb""]",False
+musp_302,17,general,gemini-3.8-flash,emotional depth,True
+musp_303,17,composer/title,gemini-3.8-flash,"[""Frédéric Chopin""]",False
+musp_304,17,composer/title,gemini-3.8-flash,"Etude in B-flat minor, Op. 8 No. 11",True
+musp_305,17,tonality/style,gemini-3.8-flash,B-flat minor,True
+musp_306,17,tonality/style,gemini-3.8-flash,Romantic,False
+musp_176,18,P,gemini-3.8-flash,"[""D#""]",True
+musp_177,18,P,gemini-3.8-flash,"[""B, Eb""]",False
+musp_178,18,P,gemini-3.8-flash,0:06,False
+musp_307,18,composer/title,gemini-3.8-flash,Alexander Scriabin,True
+musp_308,18,composer/title,gemini-3.8-flash,"Piano Sonata No. 5, Op. 53",True
+musp_309,18,tonality/style,gemini-3.8-flash,F-sharp major,True
+musp_310,18,tonality/style,gemini-3.8-flash,Romantic,False
+musp_210,19,general,gemini-3.8-flash,7,False
+musp_211,19,composer/title,gemini-3.8-flash,Gioachino Rossini,False
+musp_212,19,composer/title,gemini-3.8-flash,The Barber of Seville,False
+musp_213,19,tonality/style,gemini-3.8-flash,D major,True
+musp_214,19,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,True
+musp_94,19,P,gemini-3.8-flash,"[""F#, E, A""]",False
+musp_95,19,P,gemini-3.8-flash,00:16,True
+musp_96,19,P,gemini-3.8-flash,"[""00:17""]",True
+musp_100,20,P,gemini-3.8-flash,D,False
+musp_215,20,composer/title,gemini-3.8-flash,Franz Schubert,False
+musp_216,20,composer/title,gemini-3.8-flash,"Symphony No. 2 in D major, Op. 36",False
+musp_217,20,tonality/style,gemini-3.8-flash,D major,True
+musp_218,20,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,True
+musp_97,20,P,gemini-3.8-flash,00:05,True
+musp_98,20,P,gemini-3.8-flash,Oboe,False
+musp_99,20,P,gemini-3.8-flash,"[""D, A""]",False
+musp_101,21,P,gemini-3.8-flash,00:20,False
+musp_102,21,P,gemini-3.8-flash,00:15,False
+musp_219,21,composer/title,gemini-3.8-flash,Gaetano Donizetti,False
+musp_220,21,composer/title,gemini-3.8-flash,Götterdämmerung,False
+musp_221,21,tonality/style,gemini-3.8-flash,E-flat major,True
+musp_222,21,tonality/style,gemini-3.8-flash,Romantic,False
+musp_103,22,P,gemini-3.8-flash,Oboe,False
+musp_104,22,P,gemini-3.8-flash,00:10,True
+musp_105,22,P,gemini-3.8-flash,0:19,True
+musp_106,22,P,gemini-3.8-flash,00:18,True
+musp_223,22,general,gemini-3.8-flash,8,False
+musp_224,22,composer/title,gemini-3.8-flash,Ludwig van Beethoven,True
+musp_225,22,composer/title,gemini-3.8-flash,"Symphony No. 5 in C minor, Op. 67",False
+musp_226,22,tonality/style,gemini-3.8-flash,C minor,True
+musp_227,22,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,True
+musp_107,23,P,gemini-3.8-flash,F,True
+musp_108,23,P,gemini-3.8-flash,"[""trill""]",False
+musp_109,23,P,gemini-3.8-flash,00:14,False
+musp_110,23,P,gemini-3.8-flash,"[""00:11, 00:16""]",False
+musp_111,23,P,gemini-3.8-flash,F,False
+musp_112,23,P,gemini-3.8-flash,00:05,True
+musp_228,23,composer/title,gemini-3.8-flash,Gioachino Rossini,False
+musp_229,23,composer/title,gemini-3.8-flash,Il signor Bruschino Overture,False
+musp_230,23,tonality/style,gemini-3.8-flash,F major,True
+musp_231,23,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,True
+musp_113,24,P,gemini-3.8-flash,"[""Bb, A, G, F""]",False
+musp_232,24,general,gemini-3.8-flash,2,False
+musp_233,24,composer/title,gemini-3.8-flash,Johannes Brahms,False
+musp_234,24,composer/title,gemini-3.8-flash,The Sorcerer's Apprentice,False
+musp_235,24,tonality/style,gemini-3.8-flash,D minor,True
+musp_236,24,tonality/style,gemini-3.8-flash,Late Classical / Early Romantic,True
